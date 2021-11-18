@@ -49,5 +49,5 @@ Rabenkrächzen, Waldambience, Tropfen, Brennen (Entflammen?), Zerbrechen
 23. Dezember Whiteboxabgabe
 20. Januar Vollfunktionsfähig
 
-#Changes
+# Changes
 18.11.21 Added Maze, compatible with VR Headset and Simulation inclution. Ready for first release on the 25th of November 2021.
