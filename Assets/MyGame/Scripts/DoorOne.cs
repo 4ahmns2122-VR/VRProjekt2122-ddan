@@ -4,6 +4,13 @@ using UnityEngine;
 
 public class DoorOne : MonoBehaviour
 {
+
+    public GameObject Crow;
+    public GameObject NaturesWall;
+    public GameObject NaturesHand;
+
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -13,6 +20,9 @@ public class DoorOne : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (Crow)
+        {
+
+        }
     }
 }
