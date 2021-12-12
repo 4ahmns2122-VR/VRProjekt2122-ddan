@@ -5,22 +5,15 @@ using UnityEngine;
 public class DoorOne : MonoBehaviour
 {
 
-    public GameObject Crow;
-    public GameObject NaturesWall;
-    public GameObject NaturesHand;
+    public GameObject crow;
+    public GameObject naturesWall;
+    public GameObject naturesHand;
 
 
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
+    
     void Update()
     {
-        if (Crow)
+        if (crow)
         {
 
         }
