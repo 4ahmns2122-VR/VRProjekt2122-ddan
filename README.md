@@ -50,8 +50,8 @@ Rabenkrächzen, Waldambience, Tropfen, Brennen (Entflammen?), Zerbrechen
 20. Januar Vollfunktionsfähig
 
 # Changes
-18.11.21 Added Maze, compatible with VR Headset and Simulation inclution. Ready for first release on the 25th of November 2021.
-06.12.21 Added "Trees", set the PuzzlePositions.
-09.12.21 Created the first Scripts.
-10.12.21 Finished the first Puzzle
-16.12.21 Created the Second Puzzle, Trigger is already working, sounds must still be included.
+1. 18.11.21 Added Maze, compatible with VR Headset and Simulation inclution. Ready for first release on the 25th of November 2021.
+2. 06.12.21 Added "Trees", set the PuzzlePositions.
+3. 09.12.21 Created the first Scripts.
+4. 10.12.21 Finished the first Puzzle
+5. 16.12.21 Created the Second Puzzle, Trigger is already working, sounds must still be included.
