@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Crow
+  - TelephoneRings
+  - TelephoneSaysHello
+  - Lighter
   layers:
   - Default
   - TransparentFX
