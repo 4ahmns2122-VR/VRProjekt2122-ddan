@@ -55,3 +55,4 @@ Rabenkrächzen, Waldambience, Tropfen, Brennen (Entflammen?), Zerbrechen
 3. 09.12.21 Created the first Scripts.
 4. 10.12.21 Finished the first Puzzle
 5. 16.12.21 Created the Second Puzzle, Trigger is already working, sounds must still be included.
+6. 23.01.21. Fulfilled the WhiteBox Fullversion (No Sounds, nor textures)
