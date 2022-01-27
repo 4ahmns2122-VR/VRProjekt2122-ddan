@@ -23,6 +23,11 @@ public class Sacrifice : MonoBehaviour
         {
             isMoving = true;
             Destroy(naturesWall, 3f);
+            GameObject[] objArr = GameObject.FindGameObjectsWithTag("Crow");
+            foreach (var obj in objArr)
+            {
+                Destroy(obj, 3f);
+            }
         }
     }
 

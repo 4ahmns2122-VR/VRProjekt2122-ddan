@@ -24,6 +24,11 @@ public class Guilt : MonoBehaviour
         {
             isMoving = true;
             Destroy(naturesWall2, 3f);
+            GameObject[] objArr = GameObject.FindGameObjectsWithTag("Lighter");
+            foreach(var obj in objArr)
+            {
+                Destroy(obj, 3f);
+            }
         }
     }
 

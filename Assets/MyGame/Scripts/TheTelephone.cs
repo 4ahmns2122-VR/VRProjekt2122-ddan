@@ -12,6 +12,7 @@ public class TheTelephone : MonoBehaviour
     public GameObject door;
     public Transform ringToneposition;
     public Transform doorPosition;
+    public GameObject user;
 
     private void OnTriggerEnter(Collider other)
     {
