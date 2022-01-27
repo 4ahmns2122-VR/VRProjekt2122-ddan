@@ -47,7 +47,7 @@ Rabenkrächzen, Waldambience, Tropfen, Brennen (Entflammen?), Zerbrechen
 ## Meilensteine:
 25. November Funktion mit Rift (Einbindung)
 23. Dezember Whiteboxabgabe
-20. Januar Vollfunktionsfähig
+20. Januar Vollfunktionsfähig (Die Codes)
 
 # Changes
 1. 18.11.21 Added Maze, compatible with VR Headset and Simulation inclution. Ready for first release on the 25th of November 2021.
@@ -55,4 +55,6 @@ Rabenkrächzen, Waldambience, Tropfen, Brennen (Entflammen?), Zerbrechen
 3. 09.12.21 Created the first Scripts.
 4. 10.12.21 Finished the first Puzzle
 5. 16.12.21 Created the Second Puzzle, Trigger is already working, sounds must still be included.
-6. 23.01.21. Fulfilled the WhiteBox Fullversion (No Sounds, nor textures)
+6. 23.01.22. Fulfilled the WhiteBox Fullversion (No Sounds, nor textures)
+7. 25.01.22. Tested the sound, wrote most of the music myself with FLStudio (The talk between the user and crow per phone for example) received some help by Mister Preuss.
+8. 27.01.22. Finished the basic game, now there is time for detail, further correction, as the headmaster in charge of the Game, gave me informtion about my Teleportation system not working. I will now proceed to test the game via VR.
