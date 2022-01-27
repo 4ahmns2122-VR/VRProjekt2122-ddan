@@ -57,4 +57,4 @@ Rabenkrächzen, Waldambience, Tropfen, Brennen (Entflammen?), Zerbrechen
 5. 16.12.21 Created the Second Puzzle, Trigger is already working, sounds must still be included.
 6. 23.01.22. Fulfilled the WhiteBox Fullversion (No Sounds, nor textures)
 7. 25.01.22. Tested the sound, wrote most of the music myself with FLStudio (The talk between the user and crow per phone for example) received some help by Mister Preuss.
-8. 27.01.22. Finished the basic game, now there is time for detail, further correction, as the headmaster in charge of the Game, gave me informtion about my Teleportation system not working. I will now proceed to test the game via VR.
+8. 27.01.22. Finished the basic game, now there is time for detail, further correction, as the headmaster in charge of the Game, gave me informtion about my Teleportation system not working. I will now proceed to test the game via VR. Issues proceed, no further knowledge about the Rigidbody system on the player (the player won't fall, but rather float in the sky). Sounds are working. Game is soon marked as finished.
