@@ -22,6 +22,15 @@ Telefon bei Gate 3 klingelt, Rabe krächzt und wilde, hohe Geigenmusik setzt ein
 ## Audio: 
 Rabenkrächzen, Waldambience, Tropfen, Telefongeräusche
 
+## Plattform/Technische Info
+
+### Windows 10
+### Developed in Unity
+### Oculus Rift friendly
+### Used Blender for some models
+### Used FL Studio for sounds
+
+
 ## Arbeitsschritte:
 1.	GitHub-Repository (Projekt anlegen)
 2.	Auf der Plattform testen (exe, Rift)
