@@ -6,21 +6,21 @@
 
 
 Der Spieler wandert durch die Gräben in einem halb verschneiten Wald.
-Dort kommt er bei einer Sperre an woraufhin ein Rabe im ersten Sektor des Labyrinths spawned. Diesen muss der Spieler schnappen und zur ersten Sperre schleppen woraufhin die Sperre sich auflöst.
-Bei Sperre Nummer 2 findet der Spieler ein Feuerzeug. Das Feuerzeug muss zur zweiten Sperre gebracht werden, die aus einer Schlammwand besteht, aus der ein knochiger Arm auftaucht. In der Hand befindet sich ein Nest. Dieses musst du anzünden, damit sich diese Sperre lichtet.
-Sperre Nummer drei ist simpel. Am Ende des Ganges findest du eine Blockhütte. In der Mitte der Hütte befindet sich ein Telefon. Hebst du den Hörer ab hörst du einen Raben krächzen.
-Der Boden pocht und bricht ein. Der Spieler fällt in die Tiefe und das Spiel ist zu Ende.
+Dort kommt er bei einer Sperre an woraufhin ein Rabe im ersten Sektor des Labyrinths spawned. Diesen muss der Spieler schnappen und zur ersten Sperre schleppen, den Raben der Schlammhand geben, woraufhin die Sperre sich auflöst.
+Bei Sperre Nummer 2 findet der Spieler ein Feuerzeug. Das Feuerzeug muss zur zweiten Sperre gebracht werden. Ein Steinpodest. Ein Feuerzeug muss dort abgelegt werden, damit sich diese Sperre lichtet.
+Sperre Nummer drei ist simpel. Bei einem gewissen Punkt im Labyrinth hört man ein Telefon klingeln. Am Ende des Ganges findest du eine Blockhütte. In der Mitte der Hütte befindet sich ein Telefon. Hebst du den Hörer ab hörst du einen Raben krächzen.
+Der Boden bricht ein. Der Spieler fällt in die Tiefe und das Spiel ist zu Ende.
 
 
 ### Oculus Rift wird verwendet
 
 ## MVP: 
-Die 3 Gates (Puzzles) Wurzeltor, Erdtor, Hütte, der Rabe, das Feuerzeug,, die Hand, das Telefon, der Boden
-Optional: Steinrabe wird bei Gate 1 vom Podest angenommen (Sperre lichtet sich), Feuerzeug entflammt Nest bei Gate 2 woraufhin eine Scharr Raben von Links und Rechts entfacht (Sperre lichtet sich)
-Telefon bei Gate 3 klingelt, Rabe krächzt und wilde, hohe Geigenmusik setzt ein woraufhin der Boden pocht, dann einbricht und der Spieler in die schwarze Tiefe stürzt.
+Die 3 Gates (Puzzles) Erdtor, Hütte, der Rabe, das Feuerzeug,, die Hand, das Telefon, der Boden
+Optional: Steinrabe wird bei Gate 1 angenommen, Animation folgt (Sperre lichtet sich)
+Telefon bei Gate 3 klingelt, Rabe krächzt und wilde, hohe Geigenmusik setzt ein woraufhin der Boden einbricht und der Spieler in die schwarze Tiefe stürzt.
 
 ## Audio: 
-Rabenkrächzen, Waldambience, Tropfen, Brennen (Entflammen?), Zerbrechen
+Rabenkrächzen, Waldambience, Tropfen, Telefongeräusche
 
 ## Arbeitsschritte:
 1.	GitHub-Repository (Projekt anlegen)
@@ -58,3 +58,4 @@ Rabenkrächzen, Waldambience, Tropfen, Brennen (Entflammen?), Zerbrechen
 6. 23.01.22. Fulfilled the WhiteBox Fullversion (No Sounds, nor textures)
 7. 25.01.22. Tested the sound, wrote most of the music myself with FLStudio (The talk between the user and crow per phone for example) received some help by Mister Preuss.
 8. 27.01.22. Finished the basic game, now there is time for detail, further correction, as the headmaster in charge of the Game, gave me informtion about my Teleportation system not working. I will now proceed to test the game via VR. Issues proceed, no further knowledge about the Rigidbody system on the player (the player won't fall, but rather float in the sky). Sounds are working. Game is soon marked as finished.
+9. 01.02.22. Fixed some Bugs like the camera being fixed on the left controller. I already wrote an in-depth information-setting about my game and MVP's.
