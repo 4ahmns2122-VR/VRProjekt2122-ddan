@@ -70,3 +70,4 @@ Rabenkrächzen, Waldambience, Tropfen, Telefongeräusche
 9. 01.02.22. Fixed some Bugs like the camera being fixed on the left controller. I already wrote an in-depth information-setting about my game and MVP's.
 10. 01.02.22. Added a Testvideo, wrote some info about the platform and technical equipment used and needed, deleted unimportant files not used in the final version of the game
 11. 01.02.22. One bug that still exists is the player having some trouble when trying to teleport if playing with a VR Headset. I cannot test nor fix this as I do not own a VR Headset and as I do not possesss the needed knowledge of the RIG Programm to understand the ground functions. On the VR Test-RIG it's working.
+12. 03.02.22. Limitations: In the End the player should fall (that's what I at least intended) yet only the hands fall, not the Camera.
