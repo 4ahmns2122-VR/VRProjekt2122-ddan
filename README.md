@@ -60,9 +60,9 @@ Rabenkrächzen, Waldambience, Tropfen, Telefongeräusche
 
 # Changes
 1. 18.11.21 Added Maze, compatible with VR Headset and Simulation inclution. Ready for first release on the 25th of November 2021.
-2. 06.12.21 Added "Trees", set the PuzzlePositions.
-3. 09.12.21 Created the first Scripts.
-4. 10.12.21 Finished the first Puzzle
+2. 06.12.21 Added "Trees", set markers for the PuzzlePositions.
+3. 09.12.21 Created the first Scripts for the puzzles.
+4. 10.12.21 Finished the first Puzzle (functioning)
 5. 16.12.21 Created the Second Puzzle, Trigger is already working, sounds must still be included.
 6. 23.01.22. Fulfilled the WhiteBox Fullversion (No Sounds, nor textures)
 7. 25.01.22. Tested the sound, wrote most of the music myself with FLStudio (The talk between the user and crow per phone for example) received some help by Mister Preuss.
